@@ -1,3 +1,3 @@
-public void NewClass{
+public static void main{
 
 } 
